@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Frontend Repository](#frontend)
+  - [🛠 Backed Repository](#backend)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -33,7 +33,7 @@ This application allows you to:
 
 Receive random greeting messages
 
-## 🛠 Frontend repository: <a name="frontend"></a>
+## 🛠 Backend repository: <a name="backend"></a>
 
 To visit the backed repository, please [click here](https://github.com/shahadat3669/hello-rails-back-end.git).
 
